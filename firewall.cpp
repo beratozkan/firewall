@@ -258,15 +258,4 @@ int PortsManager::GetTotal()const
 {
 	return m_totalPacket;
 }
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
